@@ -1,0 +1,19 @@
+{
+  "name": "apollorest",
+  "version": "1.0.0",
+  "description": "A small example of a node-backend with express, apollo, graphql, external and internal REST API integration.",
+  "author": "Karl Hedin Sånemyr <karl.hedin@jayway.com>",
+  "main": "src/app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "apollo-datasource-rest": "0.6.5",
+    "apollo-server-express": "2.9.6",
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.4"
+  }
+}
