@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "apollo-datasource-rest": "0.6.5",
-    "apollo-server-express": "2.9.6",
+    "apollo-server-express": "2.14.2",
     "express": "4.17.1"
   },
   "devDependencies": {
